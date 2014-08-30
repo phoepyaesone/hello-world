@@ -1,4 +1,16 @@
-*{
-	margin: 0px auto;
-	padding: 0px;
-}
+*
+	{
+		margin: 0px auto;
+		padding: 0px;
+	}
+
+body
+	{
+		font-size: 12px;
+	}
+	
+a 
+	{
+		text-decoration: none;
+	}
+	
